@@ -1,0 +1,6 @@
+{
+  "name": "Tarih Muhabiri",
+  "description": "Tarih dersleri için birincil belgelere dayalı yapay zekâ muhabirliği, 1919 dönemi gazete sayfası ve çift sesli podcast stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
